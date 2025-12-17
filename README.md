@@ -89,7 +89,7 @@ values:
   <img src="https://img.shields.io/badge/Linux-444444?style=for-the-badge" />
 </p>
 
-<h2>📊 &nbsp;GitHub Stats</h2>
+<h2>📈 &nbsp;GitHub Stats</h2>
 
 <p align="left">
   <img 
@@ -101,5 +101,3 @@ values:
     height="165"
   />
 </p>
-
-<img src="https://github.com/olanrewajuemmanuel/olanrewajuemmanuel/blob/output/github-contribution-grid-snake.svg" />
