@@ -101,5 +101,5 @@ values:
     height="165"
   />
 </p>
-##
+
 <img src="https://github.com/olanrewajuemmanuel/olanrewajuemmanuel/blob/output/github-contribution-grid-snake.svg" />
