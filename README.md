@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey%20Everyone%20👋&fontSize=90" alt="Hey Everyone 👋"/>
 </p>
-<h1 align="center">Hi, I'm (Olan)rewaju</h1>
+<h1 align="center">I'm (Olan)rewaju</h1>
 <h3 align="center">Senior Software Engineer | ML Enthusiast • Systems Thinking</h3>
 
 ## 🧠 About Me
